@@ -1,0 +1,2 @@
+expectation "`informacionGanadoras` no debe devolver un valor 'hardcodeado'.":
+  within `informacionGanadoras` returns with nonliteral;

@@ -1,0 +1,1 @@
+Los objetos nos pueden ayudar a representar y modelar conceptos abstractos mediante el código. ¿Cómo? Veámoslo en esta lección con la ayuda de JavaScript. :grin:
