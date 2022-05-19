@@ -3,9 +3,9 @@ Tenemos la variable `datos` que tiene un objeto con los datos de una persona. El
 ```js
 let datos = {
   id: 1,
-  nombre: "Ada",
-  apellido: "Lovelace",
-  email: "ada.lovelace@gmail.com",
+  nombre: "Gaby",
+  apellido: "Villani",
+  email: "gaby.villani@gmail.com",
   telefono: "1234567890",
   edad: "29",
   programa: true,
