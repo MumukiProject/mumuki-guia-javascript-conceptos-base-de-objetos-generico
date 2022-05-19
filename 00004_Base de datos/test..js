@@ -1,6 +1,6 @@
 describe("", function() {
-   it("Existe el objeto ada y tiene las propiedades correspondientes", function() {
-      assert.deepEqual(ada ,{ id: 1, nombre: "Ada Lovelace", email: "ada@gmail.com", telefono: 1234567890 });
+   it("Existe el objeto ale y tiene las propiedades correspondientes", function() {
+      assert.deepEqual(ale ,{ id: 1, nombre: "Ale Gomez", email: "ale@gmail.com", telefono: 1234567890 });
    })
 })
 
