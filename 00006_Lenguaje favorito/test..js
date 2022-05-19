@@ -2,9 +2,9 @@ describe("Si tenemos un objeto que tiene la propiedad programa: true y hacemos a
   it("", function() {
     let datos = {
       id: 1,
-      nombre: "Ada",
-      apellido: "Lovelace",
-      email: "ada.lovelace@gmail.com",
+      nombre: "Gaby",
+      apellido: "Villani",
+      email: "gaby.villani@gmail.com",
       telefono: "1234567890",
       edad: 29,
       programa: true,
@@ -18,9 +18,9 @@ describe("Si tenemos un objeto que tiene la propiedad programa: false y hacemos 
   it("", function() {
     let datos = {
       id: 1,
-      nombre: "Ada",
-      apellido: "Lovelace",
-      email: "ada.lovelace@gmail.com",
+      nombre: "Gaby",
+      apellido: "Villani",
+      email: "gaby.villani@gmail.com",
       telefono: "1234567890",
       edad: 29,
       programa: false,
