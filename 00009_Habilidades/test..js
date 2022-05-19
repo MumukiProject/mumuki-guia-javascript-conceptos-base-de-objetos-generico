@@ -2,8 +2,8 @@ describe("", function() {
   it("Si hacemos agregarHabilidad(perfil, 'JavaScript') se agrega Javascript al array de habilidades", function() {
     let perfil = {
       id: 123456789,
-      nombre: "Ada Lovelace",
-      url: "https://www.linkedin.com/in/ada-lovelace",
+      nombre: "Clara Benítez",
+      url: "https://www.linkedin.com/in/clara-benitez",
       habilidades: ["HTML", "CSS", "SASS"],
     };
     agregarHabilidad(perfil, 'JavaScript');
@@ -15,8 +15,8 @@ describe("", function() {
   it("Si hacemos agregarHabilidad(perfil, 'Ruby') se agrega Ruby al array de habilidades", function() {
     let perfil = {
       id: 123456789,
-      nombre: "Ada Lovelace",
-      url: "https://www.linkedin.com/in/ada-lovelace",
+      nombre: "Clara Benítez",
+      url: "https://www.linkedin.com/in/clara-benitez",
       habilidades: ["HTML", "CSS", "SASS"],
     };
     agregarHabilidad(perfil, 'Ruby');
@@ -28,8 +28,8 @@ describe("", function() {
   it("Si hacemos agregarHabilidad(perfil, 'React') se agrega React al array de habilidades", function() {
     let perfil = {
       id: 123456789,
-      nombre: "Ada Lovelace",
-      url: "https://www.linkedin.com/in/ada-lovelace",
+      nombre: "Clara Benítez",
+      url: "https://www.linkedin.com/in/clara-benitez",
       habilidades: ["HTML", "CSS", "SASS"],
     };
     agregarHabilidad(perfil, 'React');
