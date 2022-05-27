@@ -1,1 +1,1 @@
-Privada tiene que mostrar **Si** en el caso que la propiedad `privada` sea `true`, o **No** si la propiedad es `false`.
+Privada tiene que mostrar **Sí** en el caso que la propiedad `privada` sea `true`, o **No** si la propiedad es `false`.

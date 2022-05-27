@@ -11,7 +11,7 @@ let playlistDeEjemplo = {
 
 ```
 Lista de Nirvana
-Privada: Si
+Privada: Sí
 Canciones:
 Smells Like Teen Spirit
 In Bloom
